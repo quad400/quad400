@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdulquadri Adediji</h1>
-<h3 align="center">A passionate Software Engineer focused on Mobile & Backend Development</h3>
+<h1 classname="center">Hi 👋, I'm Abdulquadri Adediji</h1>
+<h3 classname="center">A passionate Software Engineer focused on building swift and scalable Mobile App with a solid knowledge of Mobile Architecture also I love to explore Backends projects and contribute would like to contribute to an opensoure project</h3>
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="center">
+<p classname="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
@@ -23,13 +23,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulquadri&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdulquadri&theme=radical" width="48%" />
+<p classname="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quad400&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=quad400&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulquadri&layout=compact&theme=radical" width="48%" />
+<p classname="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quad400&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -43,10 +43,10 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Abdulquadri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abdulquadri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p classname="center">
+  <a href="https://github.com/quad400"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abdulquadri-adediji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adedijiabdulquadri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
