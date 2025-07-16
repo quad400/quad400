@@ -1,14 +1,12 @@
-<h1 classname="center">Hi 👋, I'm Abdulquadri Adediji</h1>
-<h3 classname="center">A passionate Software Engineer focused on building swift and scalable Mobile App with a solid knowledge of Mobile Architecture also I love to explore Backends projects and contribute would like to contribute to an opensoure project</h3>
+## Hi 👋, I'm Abdulquadri Adediji
+
+#### A passionate Software Engineer focused on building swift and scalable Mobile App with a solid knowledge of Mobile Architecture also I love to explore Backends projects and contribute would like to contribute to an opensoure project
 
 ---
 
 ### 🛠 Tech Stack
 
-  <p style={{
-  display:"flex"
-
-}}>
+  <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
