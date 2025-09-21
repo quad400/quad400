@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Abdulquadri Adediji
 
-#### A passionate Software Engineer focused on building swift and scalable Mobile App with a solid knowledge of Mobile Architecture also I love to explore Backends projects and contribute would like to contribute to an opensoure project
+#### A passionate Software Engineer focused on building swift and scalable Mobile App with a solid knowledge of Mobile Architecture also I love to explore Backends projects and would like to contribute to an opensoure projects
 
 ---
 
