@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/quad400">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abdulquadri+Adediji;Software+Engineer;Go+%7C+React+Native+%7C+TypeScript;Building+SDKs+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abdulquadri+Adediji;Software+Engineer;Go+%7C+React+Native+%7C+NestJS+%7C+NextJS;Building+SDKs+%26+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ### About me
 
-Passionate software engineer focused on building **fast, scalable mobile apps** and **backend systems**. Currently deep in Go — building microservices and distributed systems — and crafting native SDKs for React Native with Swift and Kotlin bridges.
+Passionate software engineer focused on building **fast, scalable mobile apps** and **backend systems**. Currently deep in Go, building microservices and distributed systems, and crafting native SDKs for React Native with Swift and Kotlin bridges.
 
 - 🔧 &nbsp;Building distributed systems with **Go**, Redis, and gRPC
 - 📱 &nbsp;Developing and publishing **React Native SDKs** — native modules, JSI, and Turbo modules
@@ -81,32 +81,11 @@ Passionate software engineer focused on building **fast, scalable mobile apps** 
 
 ---
 
-### 🏆 GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=quad400&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub trophies"/>
-
-</div>
-
----
-
-### 📌 Featured projects
-
-> Pinned repos are pulled live from your GitHub profile. For a curated list, replace the usernames below with your actual repo names.
-
-[![LearnItApp](https://github-readme-stats.vercel.app/api/pin/?username=quad400&repo=LearnItApp&theme=tokyonight&hide_border=true)](https://github.com/quad400/LearnItApp)
-
----
-
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Dependency Injection in React Native: A Complete Guide](https://medium.com/@adedijiabdulquadri/understanding-dependency-injection-in-react-native-a-complete-guide-89f469e6097e)
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 _Auto-update blog posts by adding the [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action to your repo._
-
+- [Understanding the Main Thread (UI Thread) in React Native](https://medium.com/@adedijiabdulquadri/understanding-the-main-thread-ui-thread-in-react-native-8375954cafa6)
 ---
 
 ### 💬 Fun fact
